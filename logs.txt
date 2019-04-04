@@ -1,0 +1,6 @@
+C:\Users\171086\Documents\SI_171086_lab1>git log
+commit 938ca215f3515dbc3adaab5a92060814a61cf3c8 (HEAD -> logs, origin/master, master)
+Author: unknown <Marija.Vasileva@students.finki.ukim.mk>
+Date:   Thu Apr 4 10:29:53 2019 +0200
+
+    'first'
